@@ -8,10 +8,10 @@ The website has been operational for two months now and offers a distinctive fea
 
 ## image of website :
 
-![Main Image](images/main-image.png)
+![Main Image](images/main_image.jpg)
 
 ### Login Page:
-![Login Page](images/login-page.png)
+![Login Page](images/login.png)
 
 ### Dashboard:
 ![Dashboard](images/dashboard.png)
